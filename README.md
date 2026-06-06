@@ -75,7 +75,7 @@ The objective was to build an on-premises Active Directory environment, create a
 
 ### Local Domain Configuration
 
-![Domain](screenshots/khabbab-local-domain.png)
+![Domain](screenshots/server-manager-domain-status.png)
 
 ---
 
@@ -103,6 +103,18 @@ The objective was to build an on-premises Active Directory environment, create a
 
 ---
 
+## Environment Details
+
+| Component | Value |
+|------------|---------|
+| Cloud Platform | Microsoft Azure |
+| Identity Platform | Microsoft Entra ID |
+| Operating System | Windows Server 2025 Datacenter |
+| Domain Name | khabbab.local |
+| Synchronization Tool | Microsoft Entra Connect |
+| Authentication Model | Hybrid Identity |
+
+---
 ## Skills Demonstrated
 
 - Azure Virtual Machine Administration
